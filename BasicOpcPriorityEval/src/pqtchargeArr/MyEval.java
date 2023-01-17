@@ -18,7 +18,7 @@ import java.util.ArrayList;
 *-- Divisions zero by zero returns NaN.
 *-- Operations to be carried out in a fully automated way, being possible to carry out the number of operations and types of operations that you want, taking into account the limits of Infinity. 
 *-- Result size limit 9.0E37 y -9.0E37. After that Infinity skips.
-*-- Unlimited maximum number of operations with quantity, Infinity will represent the end of the operation.
+*-- Maximum number of operations. Number of elements supported by the arraylist, Infinity will represent the end of the operation.
 *-- It is possible that there are other limitations and some error not found by me. 
 *-- I leave at your disposal the task of carrying out more exhaustive tests.
  */
